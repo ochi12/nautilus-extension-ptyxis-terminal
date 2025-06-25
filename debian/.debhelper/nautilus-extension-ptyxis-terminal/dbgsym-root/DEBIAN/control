@@ -1,0 +1,13 @@
+Package: nautilus-extension-ptyxis-terminal-dbgsym
+Package-Type: ddeb
+Source: nautilus-extension-ptyxis-terminal
+Version: 1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Vincent Renzo Quilon <kaurichannel@gmail.com>
+Installed-Size: 28
+Depends: nautilus-extension-ptyxis-terminal (= 1.0-1)
+Section: debug
+Priority: optional
+Description: debug symbols for nautilus-extension-ptyxis-terminal
+Build-Ids: 6e0175d275f263aaac712dd8a64fdf9cf041dab2

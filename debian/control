@@ -1,0 +1,12 @@
+Source: nautilus-extension-ptyxis-terminal
+Maintainer: Vincent Renzo Quilon <kaurichannel@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 4.7.0
+Build-Depends: debhelper-compat (= 13)
+
+Package: nautilus-extension-ptyxis-terminal
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Ptyxis terminal emulator application - Nautilus extension
+  Open a terminal window directly from Nautilus

@@ -1,0 +1,10 @@
+Package: nautilus-extension-ptyxis-terminal
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Vincent Renzo Quilon <kaurichannel@gmail.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.4), libglib2.0-0t64 (>= 2.38.0), libnautilus-extension4 (>= 3.14.1)
+Section: misc
+Priority: optional
+Description: Ptyxis terminal emulator application - Nautilus extension
+  Open a terminal window directly from Nautilus
